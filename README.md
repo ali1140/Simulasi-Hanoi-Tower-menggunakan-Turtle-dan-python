@@ -11,13 +11,11 @@
 ---
 
 ## 🎥 Video Demonstrasi
-<div align="center">
-  <video src="https://github.com/ali1140/Simulasi-Hanoi-Tower-menggunakan-Turtle-dan-python/raw/main/assets/hanoi_demo.mp4" width="600" controls="controls"></video>
-  
-  *(Jika video tidak dapat diputar secara langsung, silakan klik tautan di bawah ini)*
-  <br>
-  👉 **[Tonton Video Demonstrasi](https://github.com/ali1140/Simulasi-Hanoi-Tower-menggunakan-Turtle-dan-python/raw/main/assets/hanoi_demo.mp4)**
-</div>
+
+
+
+https://github.com/user-attachments/assets/06417658-6203-433c-a19a-ddf1c88ee3ec
+
 
 ---
 
